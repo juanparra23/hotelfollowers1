@@ -1,0 +1,15 @@
+com/mycompany/hotelfollowers/management/Manager.class
+com/mycompany/hotelfollowers/clients/Client.class
+basics/Reader.class
+com/mycompany/hotelfollowers/roomservice/RoomService.class
+com/mycompany/hotelfollowers/registerandbilling/RegisterClient.class
+com/mycompany/hotelfollowers/registerandbilling/Recepcionist.class
+com/mycompany/hotelfollowers/HotelFollowers.class
+com/mycompany/hotelfollowers/clients/Complaint.class
+com/mycompany/hotelfollowers/kitchen/Chef.class
+com/mycompany/hotelfollowers/registerandbilling/Bill.class
+com/mycompany/hotelfollowers/registerandbilling/Room.class
+com/mycompany/hotelfollowers/roomservice/Nursing.class
+com/mycompany/hotelfollowers/roomservice/Housekeeping.class
+com/mycompany/hotelfollowers/kitchen/FoodItem.class
+com/mycompany/hotelfollowers/clients/Feedback.class
